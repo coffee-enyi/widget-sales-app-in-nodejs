@@ -1,0 +1,24 @@
+{
+  "name": "widget-sales-app-in-nodejs",
+  "version": "1.0.0",
+  "description": "Widget sales app originally built in PHP, now rebuilt in nodejs",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "No tests yet. Add some!",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "widget",
+    "sales",
+    "checkout"
+  ],
+  "author": "enyinna",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.0"
+  }
+}
